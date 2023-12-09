@@ -8,7 +8,7 @@ This is the list I will solve the challenges from [adventofcode](https://advento
 
 | Day                                         |  Solution                                              |
 |:-----                                       |:------------------------------------------------------:|
-| [1](https://adventofcode.com/2023/day/1)    | [Part1](https://livecodes.io/?x=id/zaw8x6swfs2)                                                   |
-| [2](https://adventofcode.com/2023/day/2)    | []()                                                   |
+| [1](https://adventofcode.com/2023/day/1)    | [Part1](https://livecodes.io/?x=id/zaw8x6swfs2) - [Part2](https://v19.livecodes.io/?x=id/gft45pbz3cz)                                                   |
+| [2](https://adventofcode.com/2023/day/2)    | [Part1](https://v19.livecodes.io/?x=id/q8w3uwb5upp)                                                   |
 | [3](https://adventofcode.com/2023/day/3)    | []()                                                   |
 | [4](https://adventofcode.com/2023/day/4)    | []()                                                   |
