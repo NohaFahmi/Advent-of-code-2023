@@ -3,7 +3,8 @@ This repo contains my solutions for Advent of Code daily challenges for 2023!
 I just discovered this event and am so excited to start solving daily challenges. I will solve them using (Javascript-Typescript) 🤩
 This is the list I will solve the challenges from [adventofcode](https://adventofcode.com/). I will update the following table with solutions daily as much as I can :')
 
-- I am using [**livecodes.io**](livecodes.io), an awesome browser editor which I decided to use in solving the challenges without any setups.
+- I am gonna use [**livecodes.io**](livecodes.io), an awesome browser editor that I decided to use in solving the challenges without any setups and will share the link for each day's solution.
+- There are days that I am gonna use node.js with it.
 ## Daily challenges
 
 | Day                                         |  Solution                                                                                                                                               |
